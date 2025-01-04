@@ -195,7 +195,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "Startups and Companies I Assisted in Developing Their Technology",
   projects: [
     {
       image: require("./assets/images/limpidsky.jpg"),
