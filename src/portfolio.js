@@ -171,14 +171,14 @@ const workExperiences = {
       company: "Bangko Sentral ng Pilipinas",
       companylogo: require("./assets/images/bsp.jpeg"),
       date: "March  2018 – January 2019",
-      desc: "Developed a single-page application user interface using Java Server Faces (JSF), increasing productivity by 80% for about 100 bank employees."
+      desc: "Designed and implemented a single-page application (SPA) user interface using Java Server Faces (JSF), boosting productivity by 80% for approximately 100 bank employees through streamlined workflows and improved usability."
     },
     {
       role: "Full-Stack Developer (Lead)",
       company: "Southern Global Services",
       companylogo: require("./assets/images/sgs.png"),
       date: "Sept 2017 – Sept 2018",
-      desc: "Developed and maintain internal software like, Payroll, Time-Keeping, Task Management, Company Website)"
+      desc: "Enhanced and maintained internal software systems, including Payroll, Time-Keeping, Task Management, and the Company Website, ensuring seamless functionality, improved user experience, and operational efficiency."
     }
   ]
 };
