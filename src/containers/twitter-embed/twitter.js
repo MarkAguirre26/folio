@@ -7,7 +7,7 @@ import StyleContext from "../../contexts/StyleContext";
 
 const renderLoader = () => <Loading />;
 const cantDisplayError =
-  "<div className='centerContent'><h1>X(twitter) not loading? Check privacy protection settings</h1></div>";
+  "";
 
 function timeOut() {
   setTimeout(function () {
