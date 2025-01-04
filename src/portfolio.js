@@ -162,8 +162,8 @@ const workExperiences = {
       companylogo: require("./assets/images/acn.png"),
       date: "March 2019 – Present",
       desc: "Collaborated with the team to exceed client expectations by delivering projects ahead of schedule. Developed a standalone application that improved report generation productivity by 80% for 20 tenants. Additionally, designed and implemented 10 automation shell scripts to streamline tasks and enhance overall efficiency.",
-      descBullets: [        
-        ""
+      descBullets: [       
+        
       ]
     },
     {
