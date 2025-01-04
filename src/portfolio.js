@@ -219,6 +219,17 @@ const bigProjects = {
           url: "https://www.generali.com/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/player_companion.jpg"),
+      projectName: "Player Companion",
+      projectDesc: "A tool for online casino players to enhance their strategies in Baccarat and Sicbo.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://player-companion.com/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
