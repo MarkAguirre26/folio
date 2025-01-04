@@ -161,10 +161,9 @@ const workExperiences = {
       company: "Accenture Philippines",
       companylogo: require("./assets/images/acn.png"),
       date: "March 2019 – Present",
-      desc: "Collabarate with the team to deliver the client expectation and ahead of time",
-      descBullets: [
-        "Developed a standalone application boosting report generation productivity by 80% for 20 tenants.",
-        "Designed and implemented 10 automation shell scripts to streamline tasks and enhance efficiency."
+      desc: "Collaborated with the team to exceed client expectations by delivering projects ahead of schedule. Developed a standalone application that improved report generation productivity by 80% for 20 tenants. Additionally, designed and implemented 10 automation shell scripts to streamline tasks and enhance overall efficiency.",
+      descBullets: [        
+        ""
       ]
     },
     {
