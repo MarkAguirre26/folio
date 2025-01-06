@@ -26,7 +26,7 @@ const greeting = {
     " Bringing a wealth of experience from both corporate and freelance projects, I excel at delivering robust, user-focused solutions tailored to meet diverse business needs."
   ),
   resumeLink:
-    "https://raw.githubusercontent.com/MarkAguirre26/folio/main/src/containers/greeting/MarkAguirre_SoftwareDeveloper.pdf", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1lhG2hNNiZKNUTSqpwwvH6BZjI0MvLJE8/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
