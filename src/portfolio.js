@@ -195,7 +195,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "Startups and Companies I Assisted in Developing Their Technology",
+  subtitle: "Startups and Companies I Assisted in Developing Their Technology. Note: Some projects are not inluded as under NDA.",
   projects: [
     {
       image: require("./assets/images/limpidsky.jpg"),
@@ -210,13 +210,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/generali.jpeg"),
-      projectName: "Generali",
-      projectDesc: "Generali Group, established in 1831, is a leading global insurance and asset management provider headquartered in Trieste, Italy.",
+      image: require("./assets/images/medical_software.jpeg"),
+      projectName: "Centerport Medical Software",
+      projectDesc: "Centerport Medical is a trusted local business dedicated to the efficient processing of medical data for seafarers, ensuring accurate and reliable results to support their maritime careers.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://www.generali.com/"
+          url: "#"
         }
       ]
     },
