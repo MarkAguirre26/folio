@@ -210,7 +210,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/medicalSoftware.jpeg"),
+      image: require("./assets/images/medicalSoftware.jpg"),
       projectName: "Centerport Medical Software",
       projectDesc: "Centerport Medical is a trusted local business dedicated to the efficient processing of medical data for seafarers, ensuring accurate and reliable results to support their maritime careers.",
       footerLink: [
